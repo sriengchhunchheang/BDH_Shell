@@ -1,0 +1,626 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (149 ms)
+directory 'C:/ProgramData/Infineon_Technologies_AG/Infineon-Toolbox' does not exist
+Using the executable path for the tools directory.
+Loading the application in directory 'C:/BUU_Infineon/BDH_Shell_Sample_CLI'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (42 ms)
+Finished loading the application data (2098 ms total, 2037 make)
+Loading asset repository references
+Finished loading the asset repository references (850 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest loc file 'C:/Users/60050158/.modustoolbox/manifest.loc'
+Found user super-manifest(s):
+  'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading super manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Starting to parse super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Finished parsing super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (5060 ms)
+Loading the device db
+Finished loading the device db (21691 ms)
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'core-make'.
+Found direct dependencies 'capsense, freertos, middleware-ntshell, retarget-io'.
+Found new indirect dependencies 'cat1cm0p, core-lib, mtb-hal-cat1, mtb-pdl-cat1, recipe-make-cat1a, abstraction-rtos, clib-support, cmsis, core-make'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+0 error(s), 0 warning(s)
+Successfully acquired the information.
+Requested to add the asset 'CY8CKIT-028-SENSE'.
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'audio-codec-wm8960'.
+Requested to add the asset 'display-oled-ssd1306'.
+Requested to add the asset 'sensor-orientation-bmx160'.
+Requested to add the asset 'sensor-xensiv-dps3xx'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'bmi160'.
+Requested to add the asset 'bmm150'.
+Found direct dependencies 'capsense, freertos, middleware-ntshell, retarget-io, CY8CKIT-028-SENSE'.
+Found new indirect dependencies 'cat1cm0p, core-lib, mtb-hal-cat1, mtb-pdl-cat1, recipe-make-cat1a, abstraction-rtos, clib-support, audio-codec-wm8960, display-oled-ssd1306, sensor-orientation-bmx160, sensor-xensiv-dps3xx, cmsis, core-make, bmi160, bmm150'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'audio-codec-wm8960'.
+Requested to add the asset 'display-oled-ssd1306'.
+Requested to add the asset 'sensor-orientation-bmx160'.
+Requested to add the asset 'sensor-xensiv-dps3xx'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'bmi160'.
+Requested to add the asset 'bmm150'.
+Found direct dependencies 'capsense, freertos, middleware-ntshell, retarget-io, CY8CKIT-028-SENSE'.
+Found new indirect dependencies 'cat1cm0p, core-lib, mtb-hal-cat1, mtb-pdl-cat1, recipe-make-cat1a, abstraction-rtos, clib-support, audio-codec-wm8960, display-oled-ssd1306, sensor-orientation-bmx160, sensor-xensiv-dps3xx, cmsis, core-make, bmi160, bmm150'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Changelog for project "BDH_Shell_Sample_CLI":
+CY8CKIT-028-SENSE version release-v1.0.0 added
+audio-codec-wm8960 version release-v1.0.0 added
+display-oled-ssd1306 version release-v1.0.2 added
+sensor-orientation-bmx160 version release-v1.0.1 added
+sensor-xensiv-dps3xx version release-v1.0.0 added
+bmi160 version bmi160_v3.9.1 added
+bmm150 version bmm150_v2.0.0 added
+core-make updated: changed commit from release-v3.0.2 to release-v3.0.3
+
+Click "Update" to commit the changesUpdating application "BDH_Shell_Sample_CLI" ...
+Starting to commit changes to the filesystem and project 'mtb-example-empty-app'.
+Requested asset 'capsense'.
+Requested asset 'freertos'.
+Requested asset 'middleware-ntshell'.
+Requested asset 'retarget-io'.
+Requested asset 'CY8CKIT-028-SENSE'.
+Requested asset 'abstraction-rtos'.
+Requested asset 'cat1cm0p'.
+Requested asset 'clib-support'.
+Requested asset 'cmsis'.
+Requested asset 'core-lib'.
+Requested asset 'mtb-hal-cat1'.
+Requested asset 'mtb-pdl-cat1'.
+Requested asset 'recipe-make-cat1a'.
+Requested asset 'audio-codec-wm8960'.
+Requested asset 'display-oled-ssd1306'.
+Requested asset 'sensor-orientation-bmx160'.
+Requested asset 'sensor-xensiv-dps3xx'.
+Requested asset 'bmi160'.
+Requested asset 'bmm150'.
+Requested asset 'core-make'.
+Writing mtb file for asset 'CY8CKIT-028-SENSE' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/deps'.
+Writing mtb file for asset 'audio-codec-wm8960' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Writing mtb file for asset 'display-oled-ssd1306' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Writing mtb file for asset 'sensor-orientation-bmx160' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Writing mtb file for asset 'sensor-xensiv-dps3xx' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Writing mtb file for asset 'bmi160' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Writing mtb file for asset 'bmm150' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Removed the file 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs/core-make.mtb'.
+Writing mtb file for asset 'core-make' to the folder 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs'.
+Starting to fetch assets for the project directory 'C:/BUU_Infineon/BDH_Shell_Sample_CLI'.
+Starting: git -C C:/BUU_Infineon/mtb_shared/capsense/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/freertos/release-v10.4.305 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/middleware-ntshell/latest-v2.X config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/retarget-io/release-v1.4.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/abstraction-rtos/release-v1.7.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/cat1cm0p/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/capsense/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/clib-support/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/freertos/release-v10.4.305 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/cmsis/release-v5.8.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/retarget-io/release-v1.4.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/core-lib/release-v1.3.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/middleware-ntshell/latest-v2.X config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/abstraction-rtos/release-v1.7.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/cat1cm0p/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/clib-support/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/cmsis/release-v5.8.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/core-lib/release-v1.3.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/BUU_Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/core-make/release-v3.0.3 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/capsense/release-v3.0.0 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/freertos/release-v10.4.305 fetch cypress --tags --force --quiet
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/retarget-io/release-v1.4.0 fetch cypress --tags --force --quiet
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/middleware-ntshell/latest-v2.X fetch cypress --tags --force --quiet
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE fetch --all --tags --force --quiet
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/abstraction-rtos/release-v1.7.1 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/core-make/release-v3.0.3 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/BUU_Infineon/mtb_shared/cat1cm0p/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/capsense/release-v3.0.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/clib-support/release-v1.3.0 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/freertos/release-v10.4.305 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/middleware-ntshell/latest-v2.X fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/abstraction-rtos/release-v1.7.1 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/retarget-io/release-v1.4.0 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/cat1cm0p/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/cmsis/release-v5.8.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/core-lib/release-v1.3.1 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/clib-support/release-v1.3.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960 fetch --all --tags --force --quiet
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE fetch --all --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/cmsis/release-v5.8.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306 fetch --all --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/core-lib/release-v1.3.1 fetch cypress --tags --force --quiet
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160 fetch --all --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver fetch --all --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API fetch --all --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/core-make/release-v3.0.3 fetch cypress --tags --force --quiet
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/capsense/release-v3.0.0 checkout release-v3.0.0
+HEAD is now at 01dac81 Upload capsense 3.0.0.2705
+Success: git -C C:/BUU_Infineon/mtb_shared/capsense/release-v3.0.0 checkout release-v3.0.0
+Finished processing capsense
+Starting: git -C C:/BUU_Infineon/mtb_shared/freertos/release-v10.4.305 checkout release-v10.4.305
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960 fetch --all --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/middleware-ntshell/latest-v2.X checkout latest-v2.X
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306 fetch --all --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/abstraction-rtos/release-v1.7.1 checkout release-v1.7.1
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160 fetch --all --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/retarget-io/release-v1.4.0 checkout release-v1.4.0
+Success: git -C C:/BUU_Infineon/mtb_shared/core-make/release-v3.0.3 fetch cypress --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+HEAD is now at b5468a9 fixed usrcmd template
+M	core/ntshell.c
+M	core/ntshell.h
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API fetch --all --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/clib-support/release-v1.3.0 checkout release-v1.3.0
+Success: git -C C:/BUU_Infineon/mtb_shared/middleware-ntshell/latest-v2.X checkout latest-v2.X
+Finished processing middleware-ntshell
+Starting: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE release-v1.0.0
+Success: git -C C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver fetch --all --tags --force --quiet
+Starting: git -C C:/BUU_Infineon/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+HEAD is now at 3072757 Upload retarget-io [123]
+Success: git -C C:/BUU_Infineon/mtb_shared/retarget-io/release-v1.4.0 checkout release-v1.4.0
+Finished processing retarget-io
+Starting: git -C C:/BUU_Infineon/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+HEAD is now at 72bc31c Upload abstraction-rtos [404]
+Cloning into 'release-v1.0.0'...
+Success: git -C C:/BUU_Infineon/mtb_shared/abstraction-rtos/release-v1.7.1 checkout release-v1.7.1
+Finished processing abstraction-rtos
+Starting: git -C C:/BUU_Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C C:/BUU_Infineon/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Finished processing cat1cm0p
+Starting: git -C C:/BUU_Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+HEAD is now at
+ d3e0bca Upload clib-support 1.3.0.29736
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C C:/BUU_Infineon/mtb_shared/clib-support/release-v1.3.0 checkout release-v1.3.0
+Finished processing clib-support
+Starting: git -C C:/BUU_Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 checkout release-v3.2.0
+done.
+Success: git -C C:/BUU_Infineon/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Finished processing core-lib
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 checkout release-v1.0.0
+Success: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE release-v1.0.0
+Starting: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960 clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960 release-v1.0.0
+HEAD is now at 085ab13 Upload freertos 10.4.305.482 [103]
+Success: git -C C:/BUU_Infineon/mtb_shared/freertos/release-v10.4.305 checkout release-v10.4.305
+Finished processing freertos
+Starting: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306 clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306 release-v1.0.2
+Cloning into 'release-v1.0.0'...
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C C:/BUU_Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Finished processing recipe-make-cat1a
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160 clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160 release-v1.0.1
+Cloning into 'release-v1.0.2'...
+HEAD is now at bdf5a3c Upload sensor-xensiv-dps3xx 1.0.0.23328
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 checkout release-v1.0.0
+Finished processing sensor-xensiv-dps3xx
+Starting: git -C C:/BUU_Infineon/mtb_shared/core-make/release-v3.0.3 checkout release-v3.0.3
+Cloning into 'release-v1.0.1'...
+done.
+done.
+Success: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960 clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960 release-v1.0.0
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API bmm150_v2.0.0
+Success: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306 clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306 release-v1.0.2
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver bmi160_v3.9.1
+Cloning into 'bmm150_v2.0.0'...
+done.
+HEAD is now at 9137ac7 Upload core-make 3.0.3.4386 [782]
+Success: git -C C:/BUU_Infineon/mtb_shared/core-make/release-v3.0.3 checkout release-v3.0.3
+Finished processing core-make
+Starting: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 checkout release-v1.0.0
+Cloning into 'bmi160_v3.9.1'...
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160 clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160 release-v1.0.1
+Starting: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 checkout release-v1.0.0
+done.
+done.
+Success: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API bmm150_v2.0.0
+Starting: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 checkout release-v1.0.2
+Success: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver clone --origin cypress --no-checkout C:/Users/60050158/.modustoolbox/git/cache/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver bmi160_v3.9.1
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 checkout release-v1.0.1
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at f0fd20c Upload audio-codec-wm8960 1.0.0.23328
+Success: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 checkout bmm150_v2.0.0
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at d55564d Upload CY8CKIT-028-SENSE 1.0.0.23328
+Success: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 checkout bmi160_v3.9.1
+Note: switching to 'release-v1.0.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at d604a6f Upload display-oled-ssd1306 [347]
+Success: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 checkout release-v1.0.2
+Starting: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 remote set-url cypress https://github.com/infineon/audio-codec-wm8960
+Note: switching to 'release-v1.0.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 0e492b3 Upload sensor-orientation-bmx160 1.0.1.25183
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 checkout release-v1.0.1
+Starting: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 remote set-url cypress https://github.com/infineon/CY8CKIT-028-SENSE
+Note: switching to 'bmm150_v2.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a20641f Updated README.md
+Success: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 checkout bmm150_v2.0.0
+Starting: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 remote set-url cypress https://github.com/cypresssemiconductorco/display-oled-ssd1306
+Success: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 remote set-url cypress https://github.com/infineon/audio-codec-wm8960
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 remote set-url cypress https://github.com/infineon/sensor-orientation-bmx160
+Note: switching to 'bmi160_v3.9.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 3ac7bb6 Updated to v3.9.1. Fixed bugs in the sensor configuration. Added examples. Updated the callback interfaces.
+Success: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 checkout bmi160_v3.9.1
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 remote set-url cypress https://github.com/BoschSensortec/BMM150-Sensor-API
+Success: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 remote set-url cypress https://github.com/infineon/CY8CKIT-028-SENSE
+Starting: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 remote set-url --push cypress https://github.com/infineon/audio-codec-wm8960
+Success: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 remote set-url cypress https://github.com/cypresssemiconductorco/display-oled-ssd1306
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 remote set-url cypress https://github.com/BoschSensortec/BMI160_driver
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 remote set-url cypress https://github.com/infineon/sensor-orientation-bmx160
+Starting: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 remote set-url --push cypress https://github.com/infineon/CY8CKIT-028-SENSE
+Success: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 remote set-url cypress https://github.com/BoschSensortec/BMM150-Sensor-API
+Starting: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 remote set-url --push cypress https://github.com/cypresssemiconductorco/display-oled-ssd1306
+Success: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 remote set-url --push cypress https://github.com/infineon/audio-codec-wm8960
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 remote set-url --push cypress https://github.com/infineon/sensor-orientation-bmx160
+Success: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 remote set-url cypress https://github.com/BoschSensortec/BMI160_driver
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 remote set-url --push cypress https://github.com/BoschSensortec/BMM150-Sensor-API
+Success: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 remote set-url --push cypress https://github.com/cypresssemiconductorco/display-oled-ssd1306
+Starting: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960
+Success: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 remote set-url --push cypress https://github.com/infineon/CY8CKIT-028-SENSE
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 remote set-url --push cypress https://github.com/BoschSensortec/BMI160_driver
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 remote set-url --push cypress https://github.com/infineon/sensor-orientation-bmx160
+Starting: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306
+Success: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 remote set-url --push cypress https://github.com/BoschSensortec/BMM150-Sensor-API
+Starting: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE
+Success: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 remote set-url --push cypress https://github.com/BoschSensortec/BMI160_driver
+Starting: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160
+Success: git -C C:/BUU_Infineon/mtb_shared/audio-codec-wm8960/release-v1.0.0 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_infineon_audio-codec-wm8960/audio-codec-wm8960
+Finished processing audio-codec-wm8960
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API
+Success: git -C C:/BUU_Infineon/mtb_shared/display-oled-ssd1306/release-v1.0.2 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_display-oled-ssd1306/display-oled-ssd1306
+Finished processing display-oled-ssd1306
+Starting: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver
+HEAD is now at
+ 
+d672ead
+ 
+Upload mtb-hal-cat1 2.2.0.30598
+
+Success: git -C C:/BUU_Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Finished processing mtb-hal-cat1
+Success: git -C C:/BUU_Infineon/mtb_shared/CY8CKIT-028-SENSE/release-v1.0.0 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_infineon_CY8CKIT-028-SENSE/CY8CKIT-028-SENSE
+Finished processing CY8CKIT-028-SENSE
+Success: git -C C:/BUU_Infineon/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_BoschSensortec_BMM150-Sensor-API/BMM150-Sensor-API
+Finished processing BMM150-Sensor-API
+Success: git -C C:/BUU_Infineon/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_infineon_sensor-orientation-bmx160/sensor-orientation-bmx160
+Finished processing sensor-orientation-bmx160
+Success: git -C C:/BUU_Infineon/mtb_shared/BMI160_driver/bmi160_v3.9.1 remote add cypress-offline C:/Users/60050158/.modustoolbox/offline/git/https___github.com_BoschSensortec_BMI160_driver/BMI160_driver
+Finished processing BMI160_driver
+HEAD is now at 3bd35be Upload mtb-pdl-cat1 3.2.0.20064 [335]
+Success: git -C C:/BUU_Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 checkout release-v3.2.0
+Finished processing mtb-pdl-cat1
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/BUU_Infineon/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Finished processing cmsis
+Fetched all assets for the project directory 'C:/BUU_Infineon/BDH_Shell_Sample_CLI'.
+Writing the file 'C:/BUU_Infineon/BDH_Shell_Sample_CLI/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-empty-app'.
+0 error(s), 0 warning(s)
+Successfully updated application "BDH_Shell_Sample_CLI"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: C:/Users/60050158/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Users/60050158/ModusToolbox/tools_3.0
+Initializing build: mtb-example-empty-app Debug APP_CY8CKIT-062S2-43012 GCC_ARM
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Generating IDE files =
+==============================================================================
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Attach (JLink).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Attach (KitProg3_MiniProg4).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Debug (JLink).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Debug (KitProg3_MiniProg4).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Erase (JLink).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Erase (KitProg3_MiniProg4).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Program (JLink).launch
+Generated C:/BUU_Infineon/BDH_Shell_Sample_CLI/.mtbLaunchConfigs/BDH_Shell_Sample_CLI Program (KitProg3_MiniProg4).launch
+INFO: The C:/BUU_Infineon/BDH_Shell_Sample_CLI/.project already exist and will not be regenerated
+INFO: The C:/BUU_Infineon/BDH_Shell_Sample_CLI/.cproject already exist and will not be regenerated
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+  
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'audio-codec-wm8960'.
+Requested to remove the asset 'BMI160_driver'.
+Requested to remove the asset 'BMM150-Sensor-API'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'display-oled-ssd1306'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'sensor-orientation-bmx160'.
+Requested to remove the asset 'sensor-xensiv-dps3xx'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'audio-codec-wm8960'.
+Requested to add the asset 'display-oled-ssd1306'.
+Requested to add the asset 'sensor-orientation-bmx160'.
+Requested to add the asset 'sensor-xensiv-dps3xx'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'bmi160'.
+Requested to add the asset 'bmm150'.
+Found direct dependencies 'capsense, CY8CKIT-028-SENSE, freertos, middleware-ntshell, retarget-io'.
+Found new indirect dependencies 'cat1cm0p, core-lib, mtb-hal-cat1, mtb-pdl-cat1, recipe-make-cat1a, audio-codec-wm8960, display-oled-ssd1306, sensor-orientation-bmx160, sensor-xensiv-dps3xx, abstraction-rtos, clib-support, cmsis, core-make, bmi160, bmm150'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.

@@ -1,0 +1,13 @@
+abstraction-rtos release-v1.7.1
+audio-codec-wm8960 release-v1.0.0
+cat1cm0p release-v1.0.0
+clib-support release-v1.3.0
+cmsis release-v5.8.0
+core-lib release-v1.3.1
+core-make release-v3.0.3
+display-oled-ssd1306 release-v1.0.2
+mtb-hal-cat1 release-v2.2.0
+mtb-pdl-cat1 release-v3.2.0
+recipe-make-cat1a release-v2.0.0
+sensor-orientation-bmx160 release-v1.0.1
+sensor-xensiv-dps3xx release-v1.0.0
